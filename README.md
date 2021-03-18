@@ -20,4 +20,11 @@ To explore this claim, I performed another cluster analysis that grouped college
 
 ![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_Two.png)
 
+An interesting finding from this analysis is that colleges that have an above average share of arts and humanities majors are grouped with colleges that have above average mobility rates.  
+
+## Summary 
+
+The first cluster analysis showed that colleges with below average instr
+
+
 
