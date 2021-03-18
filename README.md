@@ -7,19 +7,27 @@ _How are colleges grouped based on mobility rates and related metrics?_
 
 ## Data Sources 
 1. College Level Characteristics
+
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/College%20Level%20Characteristics.xlsx
+
 This data is from Opportunity Insights and it contains the institutional expenditures per student in 2012, the share of students in each major grouping in 2000, and the rejection rates in 2013 for each college.  
 
 2. Preferred Estimates of Access and Mobility Rates by College
+
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Preferred%20Estimates%20of%20Access%20and%20Mobility%20Rates%20by%20College.xlsx
+
 This data is from Opportunity Insights and it contains the mobility rates and the fraction of parents in the top 1% of the income distribution for each college.  
 
 3. Cluster_Analysis_One_Data
+
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_One_Data.xlsx
+
 This file contains the data, cluster analysis, and visualization for the cluster analysis that groups colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate in 2013, and institutional expenditures per student in 2012.  
 
 4. Cluster_Analysis_Two_Data
+
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_Two_Data.xlsx
+
 This file contains the data, cluster analysis, and visualization for the cluster analysis that groups colleges based on mobility rate, arts and humanities major share, business major share, health and medicine major share, multi/interdisciplinary studies major share, public and social services major share, STEM major share, social sciences major share, and trades and personal services major share in 2000.  
 
 ## Data Analysis
