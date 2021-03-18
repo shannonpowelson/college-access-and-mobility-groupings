@@ -1,0 +1,11 @@
+I created the data file for the first cluster analysis.  I used VLOOKUP to combine the data and get the college name, instructional expenditures per student, rejection rates, mobility rates, and fraction of parents in the top 1% of the income distribution in the same spreadsheet.  
+Then, I found the mean and standard deviation of each variable using the average function for the mean and the standard deviation function for the standard deviation.  
+Then I standardized the variables and got their z scores by using the standardize function.  
+I then picked four anchors for the clusters and used VLOOKUP to fill in the college name and z scores for each variable in each anchor.  
+Then I found the distances squared of each point from each anchor by using the SUMXMY2 function. 
+From these distances, I found the minimum distance squared for each college using the MIN function.  
+Then, I used the MATCH function to assign each minimum distance squared to an anchor number.  
+Then I used the SUM function to find the total minimum distance squared.  
+I used solver to perform the cluster analysis.  
+I repeated these steps for the second cluster analysis.  
+For the data visualizations for both cluster analyses, I made a bar graph with the Z-scores for each anchor.  The y=0 line represents the average.  I did this by putting the Z-scores for each cluster in columns and then selecting the columns and inserting a bar graph.  
