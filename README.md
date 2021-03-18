@@ -10,7 +10,7 @@ _How are colleges grouped based on mobility rates and related metrics?_
 
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/College%20Level%20Characteristics.xlsx
 
-This data is from Opportunity Insights and it contains the institutional expenditures per student in 2012, the share of students in each major grouping in 2000, and the rejection rates in 2013 for each college.  
+This data is from Opportunity Insights and it contains the instructional expenditures per student in 2012, the share of students in each major grouping in 2000, and the rejection rates in 2013 for each college.  
 
 2. Preferred Estimates of Access and Mobility Rates by College
 
@@ -22,7 +22,7 @@ This data is from Opportunity Insights and it contains the mobility rates and th
 
 https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_One_Data.xlsx
 
-This file contains the data, cluster analysis, and visualization for the cluster analysis that groups colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate in 2013, and institutional expenditures per student in 2012.  
+This file contains the data, cluster analysis, and visualization for the cluster analysis that groups colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate in 2013, and instructional expenditures per student in 2012.  
 
 4. Cluster_Analysis_Two_Data
 
