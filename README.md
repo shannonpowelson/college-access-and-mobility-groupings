@@ -8,7 +8,16 @@ _How are colleges grouped based on mobility rates and related metrics?_
 ## Data Sources 
 
 ## Data Analysis
-To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The fraction of parents in the top 1% of the income distribution was chosen to represent how financially acessible the school is to students.  The image below shows the results of the 4 anchor cluster analysis that was performed.  
+To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The fraction of parents in the top 1% of the income distribution was chosen to represent how financially acessible the school is to students.  The image below shows the results of the 4 anchor cluster analysis that was performed. 
 
+
+The first cluster has an above average mobility rate and rejection rate.  It also has a below average fraction of parents in the top 1% of the income distribution and below average instructional expenditures per student.  The second cluster has an above average rejection rate and a below average mobility rate, fraction of parents in the top 1% of the income distribution, and instructional expenditures per student.  The third cluster is below the average for all of the variables.  The fourth cluster is below average for the mobility rate, but aboce average for the other variables.  
+
+
+
+
+As shown in these results, the only cluster that is above average for the instructional expenditures per student is below average for the mobility rate.  Since this contradicted the initial research study that I read about, I looked into this topic some more and found the previously mentioned article that discussed how the type of major is associated with mobility rates.  
+
+To explore this claim, I performed another cluster analysis that grouped colleges based on the share of students in each grouping of majors at each college and the mobility rate.  The following groups of majors were used: Arts and humanities, business, health and medicine, multi/interdisciplinary, public and social services, STEM, social sciences, and trades and personal services.  The image below shows the results of the 4 anchor cluster analysis that was performed.  
 
 
