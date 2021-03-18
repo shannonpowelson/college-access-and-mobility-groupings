@@ -8,7 +8,7 @@ _How are colleges grouped based on mobility rates and related metrics?_
 ## Data Sources 
 
 ## Data Analysis
-To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The fraction of parents in the top 1% of the income distribution was chosen to represent how financially acessible the school is to students.  The image below shows the results of the 4 anchor cluster analysis that was performed. 
+To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The image below shows the results of the 4 anchor cluster analysis that was performed. 
 
 ![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_One.png)
 
