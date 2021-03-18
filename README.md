@@ -11,6 +11,7 @@ _How are colleges grouped based on mobility rates and related metrics?_
 To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The images below show the results of the 4 anchor cluster analysis that was performed.  In the bar graph, the y=0 line represents the average for each variable.   
 
 ![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_One.png)
+![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/visualization_one.png)
 
 The first cluster has an above average mobility rate and rejection rate.  It also has a below average fraction of parents in the top 1% of the income distribution and below average instructional expenditures per student.  The second cluster has an above average rejection rate and a below average mobility rate, fraction of parents in the top 1% of the income distribution, and instructional expenditures per student.  The third cluster is below the average for all of the variables.  The fourth cluster is below average for the mobility rate, but above average for the other variables.  
 
