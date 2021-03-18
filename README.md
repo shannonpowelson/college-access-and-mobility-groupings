@@ -38,8 +38,8 @@ To start this analysis, I performed a cluster analysis that grouped colleges bas
 
 1. First cluster anchor - above average mobility rate and rejection rate, below average fraction of parents in the top 1% of the income distribution and below average instructional expenditures per student
 2. Second cluster anchor - above average rejection rate and a below average mobility rate, fraction of parents in the top 1% of the income distribution, and instructional expenditures per student
-3. Third cluster - below the average for all of the variables
-4. Fourth cluster - below average for the mobility rate, but above average for the other variables  
+3. Third cluster anchor - below the average for all of the variables
+4. Fourth cluster anchor - below average for the mobility rate, but above average for the other variables  
 
 As shown in these results, the only cluster anchor that is above average for the instructional expenditures per student is below average for the mobility rate.  Also, the only cluster anchor that is above average for mobility rate is the most below average for instructional expenditures per student.  Since this contradicted the initial research study that I read about, I looked into this topic some more and found the previously mentioned article that discussed how the type of major is associated with mobility rates.  
 
