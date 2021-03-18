@@ -11,7 +11,6 @@ _How are colleges grouped based on mobility rates and related metrics?_
 To start this analysis, I performed a cluster analysis that grouped colleges based on mobility rate, fraction of parents in the top 1% of the income distribution, rejection rate, and instructional expenditures per student.  The images below show the results of the 4 anchor cluster analysis that was performed.  In the bar graph, the y=0 line represents the average for each variable.   
 
 ![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_One.png)
-![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/visualization_one.png)
 
 The first cluster has an above average mobility rate and rejection rate.  It also has a below average fraction of parents in the top 1% of the income distribution and below average instructional expenditures per student.  The second cluster has an above average rejection rate and a below average mobility rate, fraction of parents in the top 1% of the income distribution, and instructional expenditures per student.  The third cluster is below the average for all of the variables.  The fourth cluster is below average for the mobility rate, but above average for the other variables.  
 
@@ -20,6 +19,7 @@ As shown in these results, the only cluster that is above average for the instru
 To explore this claim, I performed another cluster analysis that grouped colleges based on the share of students in each grouping of majors at each college and the mobility rate.  The following groups of majors were used: Arts and humanities, business, health and medicine, multi/interdisciplinary, public and social services, STEM, social sciences, and trades and personal services.  The images below show the results of the 4 anchor cluster analysis that was performed.  In the bar graph, the y=0 line represents the average for each variable. 
 
 ![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/Cluster_Analysis_Two.png)
+![alt text](https://github.com/shannonpowelson/college-mobility-groupings/blob/main/visualization_one.png)
 
 An interesting finding from this analysis is that colleges that have an above average share of arts and humanities majors are grouped with colleges that have above average mobility rates.  
 
